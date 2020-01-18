@@ -1,2 +1,0 @@
-# twofactorauthenticator
-OTP system authentication
